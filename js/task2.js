@@ -1,4 +1,4 @@
-"use script";
+'use strict';
 
 const inventory = {
   items: ['Монорельса', 'Фильтр'],
